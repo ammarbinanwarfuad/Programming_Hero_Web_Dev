@@ -83,6 +83,7 @@ Throughout this course, I have gained practical experience with:
 ---
 
 ## 📁 **Repository Structure**
+```bash
 programming-hero-web-dev/
 │
 ├── assignments/               # Course-specific assignments
@@ -99,7 +100,7 @@ programming-hero-web-dev/
 ├── todo-app/
 ├── e-commerce-website/
 └── blog-platform/
-Copy
+```
 ---
 
 ## 🧑‍💻 **Learning Objectives**
