@@ -151,10 +151,10 @@ npm run dev
 ## 🤝 Contribution Guidelines
 
 Fork the repository
-Create a new branch (git checkout -b feature/your-feature-name)
-Commit your changes (git commit -m 'Add some feature')
-Push to the branch (git push origin feature/your-feature-name)
-Open a pull request
+- Create a new branch (git checkout -b feature/your-feature-name)
+- Commit your changes (git commit -m 'Add some feature')
+- Push to the branch (git push origin feature/your-feature-name)
+- Open a pull request
 ---
 
 ## 📜 License
@@ -162,10 +162,10 @@ This project is open-sourced under the MIT License.
 ---
 ## 📞 Contact
 
-Name: Ammar Bin Anwar Fuad
-Email: email@example.com
-LinkedIn: https://www.linkedin.com/in/ammarbin/
-GitHub: https://github.com/ammarbinanwarfuad
+- Name: Ammar Bin Anwar Fuad
+- Email: email@example.com
+- LinkedIn: https://www.linkedin.com/in/ammarbin/
+- GitHub: https://github.com/ammarbinanwarfuad
 
 ---
 Happy Coding! 🚀👨‍💻
